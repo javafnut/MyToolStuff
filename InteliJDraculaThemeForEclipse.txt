@@ -1,0 +1,4 @@
+Instructions
+1. from eclipse market place install Eclipse Color Theme v 1.0 +
+2. launch and put theme-14105.epf and theme-14105.xml in folder
+2. import intellij Dracula Theme and enjoy!!
